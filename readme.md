@@ -1,6 +1,10 @@
 # Static file hosting
 
-## Bash Memo
+## Memo
+
+Remember that Subpath is set in ``_config.yml``.
+
+You should directly update gh-pages branch.
 
 ```bash
 git checkout gh-pages
