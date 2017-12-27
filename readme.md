@@ -1,6 +1,6 @@
 # Static file hosting
 
-## 
+## Bash Memo
 
 ```bash
 git checkout gh-pages
@@ -11,8 +11,14 @@ git commit -m 'updates'
 git push
 ```
 
-1. [View PDF version of master thesis in browser](https://git.io/pharrell-master-thesis)
+1. View PDF version of master thesis in browser
 
-(Real URL <https://pharrellwang.github.io/files/pdfs/master-thesis.pdf>)
+* Shorten URL: <https://git.io/pharrell-master-thesis>
 
-2. [Download zip package of master thesis](https://pharrellwang.github.io/files/download/master-thesis.pdf.zip)
+* Real URL: <https://pharrellwang.github.io/files/pdfs/master-thesis.pdf>
+
+2. Download zip package of master thesis
+
+* Shorten URL: <https://git.io/msc-thesis-zip>
+
+* Real URL: <https://pharrellwang.github.io/files/download/master-thesis.pdf.zip>
