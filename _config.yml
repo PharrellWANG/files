@@ -30,6 +30,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+baseurl: "/files"
+production_url : http://<username>.github.io.com/files
+BASE_PATH : http://<username>.com/files
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
